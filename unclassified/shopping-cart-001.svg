@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg5377"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shopping-cart.svg">
+  <defs
+     id="defs5379" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-87.857143"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5382">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="J:\wwwroot\roetal\_customers\lazar\apps\store\assets\default\img\account-cart-checkout.png"
+       style="display:inline;fill:#000000;fill-opacity:1"
+       transform="matrix(17.222108,0,0,20.047619,-12147.897,-959.68793)"
+       id="g4599">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m 708.31122,56.859985 0,3.297792 3.05789,0 7.55644,16.0913 0,0.04122 19.28799,0 c 0.80383,-1.416381 5.01957,-10.856055 5.01957,-10.856055 l -3.29227,0 -3.571,7.558264 -15.56006,0 -7.55644,-16.0913 0,-0.04122 z"
+         id="path4601"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="path4603"
+         transform="scale(-1,1)"
+         cx="-736.91895"
+         cy="81.300179"
+         rx="4.0642738"
+         ry="3.5645535" />
+      <ellipse
+         transform="scale(-1,1)"
+         id="path4605"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         cx="-720.78168"
+         cy="81.300179"
+         rx="4.0642738"
+         ry="3.5645535" />
+    </g>
+  </g>
+</svg>
